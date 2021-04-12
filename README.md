@@ -1,2 +1,2 @@
-# learn-go-with-test
+# Learn Go with test
 go example with tests
